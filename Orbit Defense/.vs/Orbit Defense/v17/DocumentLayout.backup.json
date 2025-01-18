@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BaiduNetdiskDownload\\\u5C0F\u7403\u9632\u5FA1\u6E38\u620F\\Orbit Defense Game Template\\Orbit Defense\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9615B93A-D512-4BB8-F294-42437BBABDD1}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u5C0F\u7403\u9632\u5FA1\u6E38\u620F\\Orbit Defense Game Template\\Orbit Defense\\assets\\orbitplane\\content\\scripts\\core\\gameplay\\bl_spawnermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615B93A-D512-4BB8-F294-42437BBABDD1}|Assembly-CSharp.csproj|solutionrelative:assets\\orbitplane\\content\\scripts\\core\\gameplay\\bl_spawnermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615B93A-D512-4BB8-F294-42437BBABDD1}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u5C0F\u7403\u9632\u5FA1\u6E38\u620F\\Orbit Defense Game Template\\Orbit Defense\\assets\\orbitplane\\content\\scripts\\core\\ui\\bl_textgradient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615B93A-D512-4BB8-F294-42437BBABDD1}|Assembly-CSharp.csproj|solutionrelative:assets\\orbitplane\\content\\scripts\\core\\ui\\bl_textgradient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615B93A-D512-4BB8-F294-42437BBABDD1}|Assembly-CSharp.csproj|d:\\baidunetdiskdownload\\\u5C0F\u7403\u9632\u5FA1\u6E38\u620F\\orbit defense game template\\orbit defense\\assets\\orbitplane\\content\\scripts\\core\\gameplay\\bl_scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615B93A-D512-4BB8-F294-42437BBABDD1}|Assembly-CSharp.csproj|solutionrelative:assets\\orbitplane\\content\\scripts\\core\\gameplay\\bl_scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615B93A-D512-4BB8-F294-42437BBABDD1}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u5C0F\u7403\u9632\u5FA1\u6E38\u620F\\Orbit Defense Game Template\\Orbit Defense\\assets\\orbitplane\\content\\scripts\\core\\gameplay\\bl_planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615B93A-D512-4BB8-F294-42437BBABDD1}|Assembly-CSharp.csproj|solutionrelative:assets\\orbitplane\\content\\scripts\\core\\gameplay\\bl_planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615B93A-D512-4BB8-F294-42437BBABDD1}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u5C0F\u7403\u9632\u5FA1\u6E38\u620F\\Orbit Defense Game Template\\Orbit Defense\\assets\\orbitplane\\content\\scripts\\core\\gameplay\\bl_gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615B93A-D512-4BB8-F294-42437BBABDD1}|Assembly-CSharp.csproj|solutionrelative:assets\\orbitplane\\content\\scripts\\core\\gameplay\\bl_gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615B93A-D512-4BB8-F294-42437BBABDD1}|Assembly-CSharp.csproj|d:\\baidunetdiskdownload\\\u5C0F\u7403\u9632\u5FA1\u6E38\u620F\\orbit defense game template\\orbit defense\\assets\\orbitplane\\content\\scripts\\core\\gameplay\\bl_enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615B93A-D512-4BB8-F294-42437BBABDD1}|Assembly-CSharp.csproj|solutionrelative:assets\\orbitplane\\content\\scripts\\core\\gameplay\\bl_enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bl_EnemyController.cs",
+              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u5C0F\u7403\u9632\u5FA1\u6E38\u620F\\Orbit Defense Game Template\\Orbit Defense\\Assets\\OrbitPlane\\Content\\Scripts\\Core\\GamePlay\\bl_EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\OrbitPlane\\Content\\Scripts\\Core\\GamePlay\\bl_EnemyController.cs",
+              "ToolTip": "D:\\BaiduNetdiskDownload\\\u5C0F\u7403\u9632\u5FA1\u6E38\u620F\\Orbit Defense Game Template\\Orbit Defense\\Assets\\OrbitPlane\\Content\\Scripts\\Core\\GamePlay\\bl_EnemyController.cs",
+              "RelativeToolTip": "Assets\\OrbitPlane\\Content\\Scripts\\Core\\GamePlay\\bl_EnemyController.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAswJMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T03:43:14.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bl_ScoreManager.cs",
+              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u5C0F\u7403\u9632\u5FA1\u6E38\u620F\\Orbit Defense Game Template\\Orbit Defense\\Assets\\OrbitPlane\\Content\\Scripts\\Core\\GamePlay\\bl_ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\OrbitPlane\\Content\\Scripts\\Core\\GamePlay\\bl_ScoreManager.cs",
+              "ToolTip": "D:\\BaiduNetdiskDownload\\\u5C0F\u7403\u9632\u5FA1\u6E38\u620F\\Orbit Defense Game Template\\Orbit Defense\\Assets\\OrbitPlane\\Content\\Scripts\\Core\\GamePlay\\bl_ScoreManager.cs",
+              "RelativeToolTip": "Assets\\OrbitPlane\\Content\\Scripts\\Core\\GamePlay\\bl_ScoreManager.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAswJwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T03:11:50.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bl_TextGradient.cs",
+              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u5C0F\u7403\u9632\u5FA1\u6E38\u620F\\Orbit Defense Game Template\\Orbit Defense\\Assets\\OrbitPlane\\Content\\Scripts\\Core\\UI\\bl_TextGradient.cs",
+              "RelativeDocumentMoniker": "Assets\\OrbitPlane\\Content\\Scripts\\Core\\UI\\bl_TextGradient.cs",
+              "ToolTip": "D:\\BaiduNetdiskDownload\\\u5C0F\u7403\u9632\u5FA1\u6E38\u620F\\Orbit Defense Game Template\\Orbit Defense\\Assets\\OrbitPlane\\Content\\Scripts\\Core\\UI\\bl_TextGradient.cs",
+              "RelativeToolTip": "Assets\\OrbitPlane\\Content\\Scripts\\Core\\UI\\bl_TextGradient.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAHUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T03:11:24.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bl_Planet.cs",
+              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u5C0F\u7403\u9632\u5FA1\u6E38\u620F\\Orbit Defense Game Template\\Orbit Defense\\Assets\\OrbitPlane\\Content\\Scripts\\Core\\GamePlay\\bl_Planet.cs",
+              "RelativeDocumentMoniker": "Assets\\OrbitPlane\\Content\\Scripts\\Core\\GamePlay\\bl_Planet.cs",
+              "ToolTip": "D:\\BaiduNetdiskDownload\\\u5C0F\u7403\u9632\u5FA1\u6E38\u620F\\Orbit Defense Game Template\\Orbit Defense\\Assets\\OrbitPlane\\Content\\Scripts\\Core\\GamePlay\\bl_Planet.cs",
+              "RelativeToolTip": "Assets\\OrbitPlane\\Content\\Scripts\\Core\\GamePlay\\bl_Planet.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAswFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:08:51.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bl_SpawnerManager.cs",
+              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u5C0F\u7403\u9632\u5FA1\u6E38\u620F\\Orbit Defense Game Template\\Orbit Defense\\Assets\\OrbitPlane\\Content\\Scripts\\Core\\GamePlay\\bl_SpawnerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\OrbitPlane\\Content\\Scripts\\Core\\GamePlay\\bl_SpawnerManager.cs",
+              "ToolTip": "D:\\BaiduNetdiskDownload\\\u5C0F\u7403\u9632\u5FA1\u6E38\u620F\\Orbit Defense Game Template\\Orbit Defense\\Assets\\OrbitPlane\\Content\\Scripts\\Core\\GamePlay\\bl_SpawnerManager.cs",
+              "RelativeToolTip": "Assets\\OrbitPlane\\Content\\Scripts\\Core\\GamePlay\\bl_SpawnerManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:46:49.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bl_GameManager.cs",
+              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u5C0F\u7403\u9632\u5FA1\u6E38\u620F\\Orbit Defense Game Template\\Orbit Defense\\Assets\\OrbitPlane\\Content\\Scripts\\Core\\GamePlay\\bl_GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\OrbitPlane\\Content\\Scripts\\Core\\GamePlay\\bl_GameManager.cs",
+              "ToolTip": "D:\\BaiduNetdiskDownload\\\u5C0F\u7403\u9632\u5FA1\u6E38\u620F\\Orbit Defense Game Template\\Orbit Defense\\Assets\\OrbitPlane\\Content\\Scripts\\Core\\GamePlay\\bl_GameManager.cs",
+              "RelativeToolTip": "Assets\\OrbitPlane\\Content\\Scripts\\Core\\GamePlay\\bl_GameManager.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAswIwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:27:42.82Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

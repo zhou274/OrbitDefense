@@ -1,0 +1,15 @@
+﻿////////////////////////////////////////////////////////////////////////////
+// bl_LevelInfo
+//
+//
+//                    Lovatto Studio 2016
+////////////////////////////////////////////////////////////////////////////
+using UnityEngine;
+
+[System.Serializable]
+public class bl_LevelInfo 
+{
+    public string Name;
+    public int PoinNeeded;
+    public float SpeedIncrement;
+}
